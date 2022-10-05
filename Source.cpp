@@ -236,7 +236,7 @@ void flight() {
     cout << "5.Show reservation log    " << endl;
     cout << "6.Main menu    " << endl;
     cout << "7.Exit program    " << endl << endl;
-    cout << "Pleas Enter Your Selection Number..." << endl;
+    cout << "Please Enter Your Selection Number..." << endl;
 wrong:
     cin >> s;
     if (s == "1")
